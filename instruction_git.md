@@ -1,5 +1,8 @@
 # Инструкция по работе с Git
 
+![git logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png)
+
+
 *Git - сохраняет в памяти не файлы с текстом, а разницу между копиями документа. Имеет возможность хранить различные версии проекта и возвращаться к его различным версиям*
 
     git version - чтобы узнать версию git
